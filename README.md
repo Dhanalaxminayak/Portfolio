@@ -3,8 +3,8 @@
 #### Technical Skills: Python, SQL, AWS, Snowflake, Tableau, JIRA
 
 ## Education
-- M.S., Business Analytics	| The University of Boston Massachusetts (_December 2023_)	 			        		
-- BTECH, Computer Science | Silicon Institute of Technology (_May 2021_)
+- M.S, Business Analytics	| The University of Boston Massachusetts (_December 2023_)	 			        		
+- B.TECH, CS              | Silicon Institute of Technology (_May 2021_)
 
 ### Work Experience
 **Data Analyst Intern @ Innovit USA Consultancy Services (_Jan 2023 - May 2023_)**

@@ -1,5 +1,9 @@
 # Data Scientist
 
+## Education
+- M.S., Business Analytics	| The University of Boston Massachusetts (_December 2023_)	 			        		
+- BTECH, Computer Science | Silicon Institute of Technology (_May 2021_)
+
 ### Education
 UNIVERSITY OF MASSACHUSETTS BOSTON
 Master’s in Business Analytics
@@ -28,3 +32,5 @@ Mirah Boston, MA Research Intern Jan 2023 – June 2023
 - Conducted Exploratory Data Analysis (EDA) on medical data, uncovering hidden patterns and contributing to research efforts.
 - Collaborated with the research team to implement machine learning models, achieving a 15% increase in prediction accuracy.
 - Demonstrated proficiency in Agile methodologies and tools like Scrum and Jira for project management and collaborative problem-solving.
+
+
